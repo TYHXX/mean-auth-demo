@@ -1,0 +1,25 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "MEAN stack authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "8.10.0"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.2",
+    "cors": "*",
+    "body-parse": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "tyHxx",
+  "license": "ISC"
+}
