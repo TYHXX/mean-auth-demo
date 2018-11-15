@@ -12,5 +12,5 @@ npm install
 
 ## Others
 The source code of front end is inside the angular-app folder.
-
+application is deployed on https://mean-auth-demo.herokuapp.com/
  
